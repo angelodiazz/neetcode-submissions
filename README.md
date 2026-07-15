@@ -13,4 +13,4 @@ Inside each individual problem directory, you will find:
 ## Problems Solved
 
 ### Arrays & Hashing
-* [Duplicate Integer](./Data%20Structures%20%26%20Algorithms/duplicate-integer/)
+* [Contains Duplicate](./Data%20Structures%20%26%20Algorithms/duplicate-integer/)
