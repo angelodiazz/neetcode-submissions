@@ -9,3 +9,8 @@ Folders are automatically generated and organized by the NeetCode GitHub integra
 Inside each individual problem directory, you will find:
 * **Source Code**: The verified C++ solution file that passes the platform test suite.
 * **Handwritten Notes**: A screenshot of my visual breakdown, illustrating the intuition and logical steps behind the solution.
+
+## Problems Solved
+
+### Arrays & Hashing
+* [Duplicate Integer](./Data%20Structures%20%26%20Algorithms/duplicate-integer/)
