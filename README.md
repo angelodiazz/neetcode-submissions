@@ -1,6 +1,6 @@
 # NeetCode Solutions — @angelodiazz
 
-This repository contains my automated solutions from practicing data structures and algorithms on NeetCode. I use this space to build clean C++ implementations, reinforce foundational programming concepts, and archive my problem-solving workflows.
+This repository serves as my personal, self-guided log for practicing data structures and algorithms on NeetCode. I use this space to actively work through problem-solving logic, build out my implementation skills, and map out my own conceptual breakdowns as a hands-on reference guide.
 
 ## Repository Structure
 
@@ -8,4 +8,4 @@ Folders are automatically generated and organized by the NeetCode GitHub integra
 
 Inside each individual problem directory, you will find:
 * **Source Code**: The verified C++ solution file that passes the platform test suite.
-* **Handwritten Notes (`notes.png`)**: A screenshot of my visual breakdown, illustrating the intuition and logical steps behind the solution.
+* **Handwritten Notes**: A screenshot of my visual breakdown, illustrating the intuition and logical steps behind the solution.
